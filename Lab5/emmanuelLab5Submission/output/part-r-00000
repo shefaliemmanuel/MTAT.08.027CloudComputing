@@ -1,0 +1,450 @@
+?,Age,MIN	25.0
+?,Age,MIN,AVG	34.5
+?,Age,MIN,AVG,MAX	56.0
+?,capital gain,MIN	0.0
+?,capital gain,MIN,AVG	0.0
+?,capital gain,MIN,AVG,MAX	0.0
+?,capital loss,MIN	30.0
+?,capital loss,MIN,AVG	44.4
+?,capital loss,MIN,AVG,MAX	60.0
+?,ed num,MIN	0.0
+?,ed num,MIN,AVG	0.0
+?,ed num,MIN,AVG,MAX	0.0
+?,fnlwgt,MIN	4.0
+?,fnlwgt,MIN,AVG	8.7
+?,fnlwgt,MIN,AVG,MAX	13.0
+?,hours/week,MIN	54411.0
+?,hours/week,MIN,AVG	245495.6
+?,hours/week,MIN,AVG,MAX	513100.0
+Cambodia,Age,MIN	42.0
+Cambodia,Age,MIN,AVG	42.0
+Cambodia,Age,MIN,AVG,MAX	42.0
+Cambodia,capital gain,MIN	0.0
+Cambodia,capital gain,MIN,AVG	0.0
+Cambodia,capital gain,MIN,AVG,MAX	0.0
+Cambodia,capital loss,MIN	40.0
+Cambodia,capital loss,MIN,AVG	40.0
+Cambodia,capital loss,MIN,AVG,MAX	40.0
+Cambodia,ed num,MIN	0.0
+Cambodia,ed num,MIN,AVG	0.0
+Cambodia,ed num,MIN,AVG,MAX	0.0
+Cambodia,fnlwgt,MIN	9.0
+Cambodia,fnlwgt,MIN,AVG	9.0
+Cambodia,fnlwgt,MIN,AVG,MAX	9.0
+Cambodia,hours/week,MIN	303044.0
+Cambodia,hours/week,MIN,AVG	303044.0
+Cambodia,hours/week,MIN,AVG,MAX	303044.0
+Canada,Age,MIN	35.0
+Canada,Age,MIN,AVG	50.0
+Canada,Age,MIN,AVG,MAX	64.0
+Canada,capital gain,MIN	0.0
+Canada,capital gain,MIN,AVG	0.0
+Canada,capital gain,MIN,AVG,MAX	0.0
+Canada,capital loss,MIN	40.0
+Canada,capital loss,MIN,AVG	50.0
+Canada,capital loss,MIN,AVG,MAX	70.0
+Canada,ed num,MIN	0.0
+Canada,ed num,MIN,AVG	0.0
+Canada,ed num,MIN,AVG,MAX	0.0
+Canada,fnlwgt,MIN	3.0
+Canada,fnlwgt,MIN,AVG	8.333333333333334
+Canada,fnlwgt,MIN,AVG,MAX	13.0
+Canada,hours/week,MIN	192695.0
+Canada,hours/week,MIN,AVG	274736.6666666667
+Canada,hours/week,MIN,AVG,MAX	348771.0
+Columbia,Age,MIN	64.0
+Columbia,Age,MIN,AVG	64.0
+Columbia,Age,MIN,AVG,MAX	64.0
+Columbia,capital gain,MIN	0.0
+Columbia,capital gain,MIN,AVG	0.0
+Columbia,capital gain,MIN,AVG,MAX	0.0
+Columbia,capital loss,MIN	45.0
+Columbia,capital loss,MIN,AVG	45.0
+Columbia,capital loss,MIN,AVG,MAX	45.0
+Columbia,ed num,MIN	0.0
+Columbia,ed num,MIN,AVG	0.0
+Columbia,ed num,MIN,AVG,MAX	0.0
+Columbia,fnlwgt,MIN	2.0
+Columbia,fnlwgt,MIN,AVG	2.0
+Columbia,fnlwgt,MIN,AVG,MAX	2.0
+Columbia,hours/week,MIN	107732.0
+Columbia,hours/week,MIN,AVG	107732.0
+Columbia,hours/week,MIN,AVG,MAX	107732.0
+Cuba,Age,MIN	25.0
+Cuba,Age,MIN,AVG	35.666666666666664
+Cuba,Age,MIN,AVG,MAX	43.0
+Cuba,capital gain,MIN	0.0
+Cuba,capital gain,MIN,AVG	0.0
+Cuba,capital gain,MIN,AVG,MAX	0.0
+Cuba,capital loss,MIN	36.0
+Cuba,capital loss,MIN,AVG	38.666666666666664
+Cuba,capital loss,MIN,AVG,MAX	40.0
+Cuba,ed num,MIN	0.0
+Cuba,ed num,MIN,AVG	1502.6666666666667
+Cuba,ed num,MIN,AVG,MAX	4508.0
+Cuba,fnlwgt,MIN	4.0
+Cuba,fnlwgt,MIN,AVG	6.0
+Cuba,fnlwgt,MIN,AVG,MAX	9.0
+Cuba,hours/week,MIN	131341.0
+Cuba,hours/week,MIN,AVG	241908.33333333334
+Cuba,hours/week,MIN,AVG,MAX	343061.0
+El-Salvador,Age,MIN	20.0
+El-Salvador,Age,MIN,AVG	27.333333333333332
+El-Salvador,Age,MIN,AVG,MAX	42.0
+El-Salvador,capital gain,MIN	0.0
+El-Salvador,capital gain,MIN,AVG	0.0
+El-Salvador,capital gain,MIN,AVG,MAX	0.0
+El-Salvador,capital loss,MIN	30.0
+El-Salvador,capital loss,MIN,AVG	35.333333333333336
+El-Salvador,capital loss,MIN,AVG,MAX	40.0
+El-Salvador,ed num,MIN	0.0
+El-Salvador,ed num,MIN,AVG	0.0
+El-Salvador,ed num,MIN,AVG,MAX	0.0
+El-Salvador,fnlwgt,MIN	2.0
+El-Salvador,fnlwgt,MIN,AVG	6.0
+El-Salvador,fnlwgt,MIN,AVG,MAX	9.0
+El-Salvador,hours/week,MIN	104334.0
+El-Salvador,hours/week,MIN,AVG	259070.66666666666
+El-Salvador,hours/week,MIN,AVG,MAX	472789.0
+England,Age,MIN	33.0
+England,Age,MIN,AVG	33.0
+England,Age,MIN,AVG,MAX	33.0
+England,capital gain,MIN	0.0
+England,capital gain,MIN,AVG	0.0
+England,capital gain,MIN,AVG,MAX	0.0
+England,capital loss,MIN	40.0
+England,capital loss,MIN,AVG	40.0
+England,capital loss,MIN,AVG,MAX	40.0
+England,ed num,MIN	0.0
+England,ed num,MIN,AVG	0.0
+England,ed num,MIN,AVG,MAX	0.0
+England,fnlwgt,MIN	13.0
+England,fnlwgt,MIN,AVG	13.0
+England,fnlwgt,MIN,AVG,MAX	13.0
+England,hours/week,MIN	176711.0
+England,hours/week,MIN,AVG	176711.0
+England,hours/week,MIN,AVG,MAX	176711.0
+France,Age,MIN	64.0
+France,Age,MIN,AVG	64.0
+France,Age,MIN,AVG,MAX	64.0
+France,capital gain,MIN	0.0
+France,capital gain,MIN,AVG	0.0
+France,capital gain,MIN,AVG,MAX	0.0
+France,capital loss,MIN	25.0
+France,capital loss,MIN,AVG	25.0
+France,capital loss,MIN,AVG,MAX	25.0
+France,ed num,MIN	0.0
+France,ed num,MIN,AVG	0.0
+France,ed num,MIN,AVG,MAX	0.0
+France,fnlwgt,MIN	9.0
+France,fnlwgt,MIN,AVG	9.0
+France,fnlwgt,MIN,AVG,MAX	9.0
+France,hours/week,MIN	59829.0
+France,hours/week,MIN,AVG	59829.0
+France,hours/week,MIN,AVG,MAX	59829.0
+Germany,Age,MIN	22.0
+Germany,Age,MIN,AVG	35.666666666666664
+Germany,Age,MIN,AVG,MAX	62.0
+Germany,capital gain,MIN	0.0
+Germany,capital gain,MIN,AVG	0.0
+Germany,capital gain,MIN,AVG,MAX	0.0
+Germany,capital loss,MIN	30.0
+Germany,capital loss,MIN,AVG	41.0
+Germany,capital loss,MIN,AVG,MAX	48.0
+Germany,ed num,MIN	0.0
+Germany,ed num,MIN,AVG	0.0
+Germany,ed num,MIN,AVG,MAX	0.0
+Germany,fnlwgt,MIN	8.0
+Germany,fnlwgt,MIN,AVG	10.0
+Germany,fnlwgt,MIN,AVG,MAX	12.0
+Germany,hours/week,MIN	84726.0
+Germany,hours/week,MIN,AVG	154578.33333333334
+Germany,hours/week,MIN,AVG,MAX	197286.0
+Guatemala,Age,MIN	27.0
+Guatemala,Age,MIN,AVG	38.6
+Guatemala,Age,MIN,AVG,MAX	58.0
+Guatemala,capital gain,MIN	0.0
+Guatemala,capital gain,MIN,AVG	0.0
+Guatemala,capital gain,MIN,AVG,MAX	0.0
+Guatemala,capital loss,MIN	32.0
+Guatemala,capital loss,MIN,AVG	41.0
+Guatemala,capital loss,MIN,AVG,MAX	48.0
+Guatemala,ed num,MIN	0.0
+Guatemala,ed num,MIN,AVG	0.0
+Guatemala,ed num,MIN,AVG,MAX	0.0
+Guatemala,fnlwgt,MIN	3.0
+Guatemala,fnlwgt,MIN,AVG	5.2
+Guatemala,fnlwgt,MIN,AVG,MAX	10.0
+Guatemala,hours/week,MIN	150958.0
+Guatemala,hours/week,MIN,AVG	299523.0
+Guatemala,hours/week,MIN,AVG,MAX	473836.0
+Haiti,Age,MIN	25.0
+Haiti,Age,MIN,AVG	37.5
+Haiti,Age,MIN,AVG,MAX	50.0
+Haiti,capital gain,MIN	0.0
+Haiti,capital gain,MIN,AVG	0.0
+Haiti,capital gain,MIN,AVG,MAX	0.0
+Haiti,capital loss,MIN	35.0
+Haiti,capital loss,MIN,AVG	37.5
+Haiti,capital loss,MIN,AVG,MAX	40.0
+Haiti,ed num,MIN	0.0
+Haiti,ed num,MIN,AVG	0.0
+Haiti,ed num,MIN,AVG,MAX	0.0
+Haiti,fnlwgt,MIN	1.0
+Haiti,fnlwgt,MIN,AVG	3.5
+Haiti,fnlwgt,MIN,AVG,MAX	6.0
+Haiti,hours/week,MIN	176773.0
+Haiti,hours/week,MIN,AVG	190303.0
+Haiti,hours/week,MIN,AVG,MAX	203833.0
+Hong,Age,MIN	19.0
+Hong,Age,MIN,AVG	19.0
+Hong,Age,MIN,AVG,MAX	19.0
+Hong,capital gain,MIN	0.0
+Hong,capital gain,MIN,AVG	0.0
+Hong,capital gain,MIN,AVG,MAX	0.0
+Hong,capital loss,MIN	36.0
+Hong,capital loss,MIN,AVG	36.0
+Hong,capital loss,MIN,AVG,MAX	36.0
+Hong,ed num,MIN	0.0
+Hong,ed num,MIN,AVG	0.0
+Hong,ed num,MIN,AVG,MAX	0.0
+Hong,fnlwgt,MIN	1.0
+Hong,fnlwgt,MIN,AVG	1.0
+Hong,fnlwgt,MIN,AVG,MAX	1.0
+Hong,hours/week,MIN	277695.0
+Hong,hours/week,MIN,AVG	277695.0
+Hong,hours/week,MIN,AVG,MAX	277695.0
+Ireland,Age,MIN	31.0
+Ireland,Age,MIN,AVG	31.0
+Ireland,Age,MIN,AVG,MAX	31.0
+Ireland,capital gain,MIN	0.0
+Ireland,capital gain,MIN,AVG	0.0
+Ireland,capital gain,MIN,AVG,MAX	0.0
+Ireland,capital loss,MIN	40.0
+Ireland,capital loss,MIN,AVG	40.0
+Ireland,capital loss,MIN,AVG,MAX	40.0
+Ireland,ed num,MIN	0.0
+Ireland,ed num,MIN,AVG	0.0
+Ireland,ed num,MIN,AVG,MAX	0.0
+Ireland,fnlwgt,MIN	9.0
+Ireland,fnlwgt,MIN,AVG	9.0
+Ireland,fnlwgt,MIN,AVG,MAX	9.0
+Ireland,hours/week,MIN	63437.0
+Ireland,hours/week,MIN,AVG	63437.0
+Ireland,hours/week,MIN,AVG,MAX	63437.0
+Italy,Age,MIN	32.0
+Italy,Age,MIN,AVG	45.5
+Italy,Age,MIN,AVG,MAX	59.0
+Italy,capital gain,MIN	0.0
+Italy,capital gain,MIN,AVG	0.0
+Italy,capital gain,MIN,AVG,MAX	0.0
+Italy,capital loss,MIN	40.0
+Italy,capital loss,MIN,AVG	40.0
+Italy,capital loss,MIN,AVG,MAX	40.0
+Italy,ed num,MIN	0.0
+Italy,ed num,MIN,AVG	0.0
+Italy,ed num,MIN,AVG,MAX	0.0
+Italy,fnlwgt,MIN	3.0
+Italy,fnlwgt,MIN,AVG	6.0
+Italy,fnlwgt,MIN,AVG,MAX	9.0
+Italy,hours/week,MIN	133201.0
+Italy,hours/week,MIN,AVG	161745.5
+Italy,hours/week,MIN,AVG,MAX	190290.0
+Japan,Age,MIN	44.0
+Japan,Age,MIN,AVG	44.0
+Japan,Age,MIN,AVG,MAX	44.0
+Japan,capital gain,MIN	0.0
+Japan,capital gain,MIN,AVG	0.0
+Japan,capital gain,MIN,AVG,MAX	0.0
+Japan,capital loss,MIN	42.0
+Japan,capital loss,MIN,AVG	42.0
+Japan,capital loss,MIN,AVG,MAX	42.0
+Japan,ed num,MIN	0.0
+Japan,ed num,MIN,AVG	0.0
+Japan,ed num,MIN,AVG,MAX	0.0
+Japan,fnlwgt,MIN	9.0
+Japan,fnlwgt,MIN,AVG	9.0
+Japan,fnlwgt,MIN,AVG,MAX	9.0
+Japan,hours/week,MIN	156687.0
+Japan,hours/week,MIN,AVG	156687.0
+Japan,hours/week,MIN,AVG,MAX	156687.0
+Mexico,Age,MIN	17.0
+Mexico,Age,MIN,AVG	33.33064516129032
+Mexico,Age,MIN,AVG,MAX	62.0
+Mexico,capital gain,MIN	0.0
+Mexico,capital gain,MIN,AVG	0.0
+Mexico,capital gain,MIN,AVG,MAX	0.0
+Mexico,capital loss,MIN	10.0
+Mexico,capital loss,MIN,AVG	42.04032258064516
+Mexico,capital loss,MIN,AVG,MAX	96.0
+Mexico,ed num,MIN	0.0
+Mexico,ed num,MIN,AVG	425.6693548387097
+Mexico,ed num,MIN,AVG,MAX	41310.0
+Mexico,fnlwgt,MIN	1.0
+Mexico,fnlwgt,MIN,AVG	4.0
+Mexico,fnlwgt,MIN,AVG,MAX	13.0
+Mexico,hours/week,MIN	56121.0
+Mexico,hours/week,MIN,AVG	289286.9435483871
+Mexico,hours/week,MIN,AVG,MAX	648223.0
+Peru,Age,MIN	28.0
+Peru,Age,MIN,AVG	28.0
+Peru,Age,MIN,AVG,MAX	28.0
+Peru,capital gain,MIN	0.0
+Peru,capital gain,MIN,AVG	0.0
+Peru,capital gain,MIN,AVG,MAX	0.0
+Peru,capital loss,MIN	40.0
+Peru,capital loss,MIN,AVG	40.0
+Peru,capital loss,MIN,AVG,MAX	40.0
+Peru,ed num,MIN	0.0
+Peru,ed num,MIN,AVG	0.0
+Peru,ed num,MIN,AVG,MAX	0.0
+Peru,fnlwgt,MIN	10.0
+Peru,fnlwgt,MIN,AVG	10.0
+Peru,fnlwgt,MIN,AVG,MAX	10.0
+Peru,hours/week,MIN	150025.0
+Peru,hours/week,MIN,AVG	150025.0
+Peru,hours/week,MIN,AVG,MAX	150025.0
+Philippines,Age,MIN	26.0
+Philippines,Age,MIN,AVG	51.0
+Philippines,Age,MIN,AVG,MAX	80.0
+Philippines,capital gain,MIN	0.0
+Philippines,capital gain,MIN,AVG	0.0
+Philippines,capital gain,MIN,AVG,MAX	0.0
+Philippines,capital loss,MIN	20.0
+Philippines,capital loss,MIN,AVG	36.666666666666664
+Philippines,capital loss,MIN,AVG,MAX	40.0
+Philippines,ed num,MIN	0.0
+Philippines,ed num,MIN,AVG	181.0
+Philippines,ed num,MIN,AVG,MAX	1086.0
+Philippines,fnlwgt,MIN	2.0
+Philippines,fnlwgt,MIN,AVG	5.666666666666667
+Philippines,fnlwgt,MIN,AVG,MAX	9.0
+Philippines,hours/week,MIN	73199.0
+Philippines,hours/week,MIN,AVG	89577.16666666667
+Philippines,hours/week,MIN,AVG,MAX	133756.0
+Poland,Age,MIN	23.0
+Poland,Age,MIN,AVG	23.0
+Poland,Age,MIN,AVG,MAX	23.0
+Poland,capital gain,MIN	0.0
+Poland,capital gain,MIN,AVG	0.0
+Poland,capital gain,MIN,AVG,MAX	0.0
+Poland,capital loss,MIN	40.0
+Poland,capital loss,MIN,AVG	40.0
+Poland,capital loss,MIN,AVG,MAX	40.0
+Poland,ed num,MIN	0.0
+Poland,ed num,MIN,AVG	0.0
+Poland,ed num,MIN,AVG,MAX	0.0
+Poland,fnlwgt,MIN	9.0
+Poland,fnlwgt,MIN,AVG	9.0
+Poland,fnlwgt,MIN,AVG,MAX	9.0
+Poland,hours/week,MIN	324960.0
+Poland,hours/week,MIN,AVG	324960.0
+Poland,hours/week,MIN,AVG,MAX	324960.0
+Portugal,Age,MIN	31.0
+Portugal,Age,MIN,AVG	33.333333333333336
+Portugal,Age,MIN,AVG,MAX	38.0
+Portugal,capital gain,MIN	0.0
+Portugal,capital gain,MIN,AVG	0.0
+Portugal,capital gain,MIN,AVG,MAX	0.0
+Portugal,capital loss,MIN	55.0
+Portugal,capital loss,MIN,AVG	66.33333333333333
+Portugal,capital loss,MIN,AVG,MAX	84.0
+Portugal,ed num,MIN	0.0
+Portugal,ed num,MIN,AVG	1314.0
+Portugal,ed num,MIN,AVG,MAX	3942.0
+Portugal,fnlwgt,MIN	4.0
+Portugal,fnlwgt,MIN,AVG	4.666666666666667
+Portugal,fnlwgt,MIN,AVG,MAX	6.0
+Portugal,hours/week,MIN	331395.0
+Portugal,hours/week,MIN,AVG	365651.3333333333
+Portugal,hours/week,MIN,AVG,MAX	404062.0
+Puerto-Rico,Age,MIN	23.0
+Puerto-Rico,Age,MIN,AVG	33.25
+Puerto-Rico,Age,MIN,AVG,MAX	47.0
+Puerto-Rico,capital gain,MIN	0.0
+Puerto-Rico,capital gain,MIN,AVG	0.0
+Puerto-Rico,capital gain,MIN,AVG,MAX	0.0
+Puerto-Rico,capital loss,MIN	40.0
+Puerto-Rico,capital loss,MIN,AVG	45.0
+Puerto-Rico,capital loss,MIN,AVG,MAX	80.0
+Puerto-Rico,ed num,MIN	0.0
+Puerto-Rico,ed num,MIN,AVG	0.0
+Puerto-Rico,ed num,MIN,AVG,MAX	0.0
+Puerto-Rico,fnlwgt,MIN	5.0
+Puerto-Rico,fnlwgt,MIN,AVG	7.375
+Puerto-Rico,fnlwgt,MIN,AVG,MAX	9.0
+Puerto-Rico,hours/week,MIN	102471.0
+Puerto-Rico,hours/week,MIN,AVG	185761.25
+Puerto-Rico,hours/week,MIN,AVG,MAX	251239.0
+Thailand,Age,MIN	38.0
+Thailand,Age,MIN,AVG	38.0
+Thailand,Age,MIN,AVG,MAX	38.0
+Thailand,capital gain,MIN	0.0
+Thailand,capital gain,MIN,AVG	0.0
+Thailand,capital gain,MIN,AVG,MAX	0.0
+Thailand,capital loss,MIN	40.0
+Thailand,capital loss,MIN,AVG	40.0
+Thailand,capital loss,MIN,AVG,MAX	40.0
+Thailand,ed num,MIN	0.0
+Thailand,ed num,MIN,AVG	0.0
+Thailand,ed num,MIN,AVG,MAX	0.0
+Thailand,fnlwgt,MIN	2.0
+Thailand,fnlwgt,MIN,AVG	2.0
+Thailand,fnlwgt,MIN,AVG,MAX	2.0
+Thailand,hours/week,MIN	402522.0
+Thailand,hours/week,MIN,AVG	402522.0
+Thailand,hours/week,MIN,AVG,MAX	402522.0
+United-States,Age,MIN	17.0
+United-States,Age,MIN,AVG	42.13716475095785
+United-States,Age,MIN,AVG,MAX	90.0
+United-States,capital gain,MIN	0.0
+United-States,capital gain,MIN,AVG	65.8712643678161
+United-States,capital gain,MIN,AVG,MAX	2415.0
+United-States,capital loss,MIN	1.0
+United-States,capital loss,MIN,AVG	47.459003831417625
+United-States,capital loss,MIN,AVG,MAX	99.0
+United-States,ed num,MIN	0.0
+United-States,ed num,MIN,AVG	769.6766283524904
+United-States,ed num,MIN,AVG,MAX	99999.0
+United-States,fnlwgt,MIN	1.0
+United-States,fnlwgt,MIN,AVG	9.032183908045978
+United-States,fnlwgt,MIN,AVG,MAX	16.0
+United-States,hours/week,MIN	20795.0
+United-States,hours/week,MIN,AVG	159578.53639846743
+United-States,hours/week,MIN,AVG,MAX	663394.0
+Vietnam,Age,MIN	70.0
+Vietnam,Age,MIN,AVG	71.5
+Vietnam,Age,MIN,AVG,MAX	73.0
+Vietnam,capital gain,MIN	0.0
+Vietnam,capital gain,MIN,AVG	1228.5
+Vietnam,capital gain,MIN,AVG,MAX	2457.0
+Vietnam,capital loss,MIN	40.0
+Vietnam,capital loss,MIN,AVG	40.0
+Vietnam,capital loss,MIN,AVG,MAX	40.0
+Vietnam,ed num,MIN	0.0
+Vietnam,ed num,MIN,AVG	0.0
+Vietnam,ed num,MIN,AVG,MAX	0.0
+Vietnam,fnlwgt,MIN	9.0
+Vietnam,fnlwgt,MIN,AVG	9.5
+Vietnam,fnlwgt,MIN,AVG,MAX	10.0
+Vietnam,hours/week,MIN	233882.0
+Vietnam,hours/week,MIN,AVG	234831.5
+Vietnam,hours/week,MIN,AVG,MAX	235781.0
+Yugoslavia,Age,MIN	35.0
+Yugoslavia,Age,MIN,AVG	35.0
+Yugoslavia,Age,MIN,AVG,MAX	35.0
+Yugoslavia,capital gain,MIN	0.0
+Yugoslavia,capital gain,MIN,AVG	0.0
+Yugoslavia,capital gain,MIN,AVG,MAX	0.0
+Yugoslavia,capital loss,MIN	65.0
+Yugoslavia,capital loss,MIN,AVG	65.0
+Yugoslavia,capital loss,MIN,AVG,MAX	65.0
+Yugoslavia,ed num,MIN	0.0
+Yugoslavia,ed num,MIN,AVG	0.0
+Yugoslavia,ed num,MIN,AVG,MAX	0.0
+Yugoslavia,fnlwgt,MIN	13.0
+Yugoslavia,fnlwgt,MIN,AVG	13.0
+Yugoslavia,fnlwgt,MIN,AVG,MAX	13.0
+Yugoslavia,hours/week,MIN	81280.0
+Yugoslavia,hours/week,MIN,AVG	81280.0
+Yugoslavia,hours/week,MIN,AVG,MAX	81280.0
